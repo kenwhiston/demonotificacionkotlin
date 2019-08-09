@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "123411146249",
+    "firebase_url": "https://demobitecfirebase.firebaseio.com",
+    "project_id": "demobitecfirebase",
+    "storage_bucket": "demobitecfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123411146249:android:9f7969afec0b63e0",
+        "android_client_info": {
+          "package_name": "com.jassgrouptics.demonotificacionkotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123411146249-ke2kklstot1us719pcom3l2ibni81euc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmOtKap2DXbs0VE0aXKmyxPOC5YVbN_UQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123411146249-ke2kklstot1us719pcom3l2ibni81euc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123411146249:android:026adce3283225f8",
+        "android_client_info": {
+          "package_name": "com.jassgrouptics.loginfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123411146249-ke2kklstot1us719pcom3l2ibni81euc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmOtKap2DXbs0VE0aXKmyxPOC5YVbN_UQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123411146249-ke2kklstot1us719pcom3l2ibni81euc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
